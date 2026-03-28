@@ -36,3 +36,5 @@ This project analyzes business sales data to uncover key insights into revenue t
 The analysis highlights opportunities to improve profitability while maintaining strong sales growth.
 # SALES-PERFOMANCE-DASHBOARD
 Sales and profit performance analysis using Power BI. This project explores revenue trends, product performance, regional insights, and business recommendations based on data.
+## 📊 Dashboard Preview
+![Dashboard](Screenshot 2026-03-28 212724.png)
